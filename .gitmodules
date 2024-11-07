@@ -1,0 +1,6 @@
+[submodule "Pager_Backend"]
+	path = Pager_Backend
+	url = https://github.com/VishnuNRaj/Pager_Backend.git
+[submodule "Pager_Frontend"]
+	path = Pager_Frontend
+	url = https://github.com/VishnuNRaj/Pager_Frontend.git
